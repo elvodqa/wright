@@ -1,0 +1,16 @@
+
+
+
+
+ask "How are you?" {
+    if "Good" {
+        @is_good = true
+    }
+
+    if "Bad" {
+        @is_good = false
+        goto bad
+    }
+}
+
+::bad::

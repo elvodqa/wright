@@ -1,0 +1,6 @@
+name = "Example Game"
+version = "1.0.0"
+author = "Emir"
+description = "An example game made for displaying the capabilities of the engine."
+
+
